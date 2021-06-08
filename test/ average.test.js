@@ -1,4 +1,4 @@
-/* const average = require('../for_testing').average;
+const average = require('../for_testing').average;
 
 describe('average', () => {
 	test('of one value is the value itself', () => {
@@ -13,4 +13,3 @@ describe('average', () => {
 		expect(average([])).toBe(0);
 	});
 });
- */
